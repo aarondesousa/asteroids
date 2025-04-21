@@ -4,12 +4,12 @@ import pygame
 
 from asteroid import Asteroid
 from constants import (
-    SCREEN_WIDTH,
-    SCREEN_HEIGHT,
-    ASTEROID_MIN_RADIUS,
     ASTEROID_KINDS,
-    ASTEROID_SPAWN_RATE,
     ASTEROID_MAX_RADIUS,
+    ASTEROID_MIN_RADIUS,
+    ASTEROID_SPAWN_RATE,
+    SCREEN_HEIGHT,
+    SCREEN_WIDTH,
 )
 
 
